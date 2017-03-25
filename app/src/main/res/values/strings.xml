@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bhookh_lagi</string>
+    <string-array name="dominos">
+        <item>Dominos</item>
+        <item>Bhakhris</item>
+        <item>Rotlis</item>
+        <item>Dominos</item>
+        <item>Bhakhris</item>
+        <item>Rotlis</item>
+        <item>Dominos</item>
+        <item>Bhakhris</item>
+        <item>Rotlis</item>
+        <item>Dominos</item>
+    </string-array>
+    <string-array name="address">
+        <item>ContactUs 8000708986</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs 8000708986</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs  7898423622</item>
+        <item>ContactUs 7898483210 </item>
+        <item>ContactUs  7898423622</item>
+    </string-array>
+</resources>
